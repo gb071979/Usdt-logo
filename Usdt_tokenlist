@@ -1,0 +1,19 @@
+{
+  "name": "USDT Spoof Token List",
+  "timestamp": "2025-06-16T09:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x8c0516f57e68483b4bf36a4595a13b338b89c98e",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    }
+  ]
+}
